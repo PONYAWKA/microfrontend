@@ -1,6 +1,6 @@
 import About from "sad-microfrontend-page-about";
 import Home from 'sad-microfrontend-page-home'
-import { Counter } from "sad-microfrontend-page-counter";
+import { CounterPage } from "./pages/Counter";
 
 export const ROUTS = [
   {
@@ -8,6 +8,6 @@ export const ROUTS = [
     path: "/about",
     component: <About />,
   },
-  { title: "Counter", path: "/counter", component: <Counter /> },
+  { title: "Counter", path: "/counter", component: <CounterPage /> },
   { title: "Home", path: "/", component: <Home /> },
 ];

@@ -13,6 +13,7 @@
     "sad-counter-page-about": "^1.0.0",
     "sad-microfrontend-page-about": "^1.2.2",
     "sad-microfrontend-page-counter": "^1.0.1",
+    "sad-microfrontend-page-counter-container": "^1.1.0",
     "sad-microfrontend-page-home": "^1.0.0",
     "web-vitals": "^2.1.4"
   },
